@@ -1,8 +1,8 @@
 Setup Instructions
 Clone the repo via CLI:
 
-git clone https://github.com/neel-ds/5ire-tutorial.git 
-cd 5ire-tutorial
+git clone https://github.com/raj-1106/PINfts.git
+cd my-app
 Install the required packages:
 
 npm install
