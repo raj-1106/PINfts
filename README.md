@@ -1,4 +1,5 @@
-Setup Instructions
+Setup Instructions 
+
 Clone the repo via CLI:
 
 git clone https://github.com/raj-1106/PINfts.git
